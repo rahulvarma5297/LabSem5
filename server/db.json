@@ -1,0 +1,50 @@
+{
+  "doctordata": [],
+  "patientdata": [
+    {
+      "timestamp": "6-12-2022 15:42:1",
+      "username": "Bhanu",
+      "email": "bhanu@gmail.com",
+      "age": "45",
+      "problem": "Fever",
+      "message": "I'm suffering with fever",
+      "id": 1
+    },
+    {
+      "timestamp": "6-12-2022 15:42:25",
+      "username": "Balu",
+      "email": "balu@gmail.com",
+      "age": "34",
+      "problem": "Cold",
+      "message": "I'm suffering with Cold",
+      "id": 2
+    },
+    {
+      "timestamp": "6-12-2022 15:47:7",
+      "username": "saketh",
+      "email": "saketh@gmail.com",
+      "age": "34",
+      "problem": "Leg Pain",
+      "message": "I'm Suffering With Leg Pain due to small injury",
+      "id": 3
+    },
+    {
+      "timestamp": "6-12-2022 15:47:50",
+      "username": "Jayant",
+      "email": "jayant@gmail.com",
+      "age": "56",
+      "problem": "Head Ache",
+      "message": "--",
+      "id": 4
+    },
+    {
+      "timestamp": "6-12-2022 15:48:57",
+      "username": "Bhanu",
+      "email": "bhanu@gmail.com",
+      "age": "34",
+      "problem": "Stomach Pain",
+      "message": "I'm suffering with Stomach Pain",
+      "id": 5
+    }
+  ]
+}
